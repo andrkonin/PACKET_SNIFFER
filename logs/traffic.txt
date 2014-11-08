@@ -1,0 +1,4 @@
+****************************************************************************
+Try to open suitable interface:
+Coulnd't find default device:
+no suitable device found
